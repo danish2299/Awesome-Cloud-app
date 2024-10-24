@@ -2,18 +2,6 @@
 
 Welcome to Awesome App - a full-stack AWS Serverless project showcasing the power of serverless architecture to deploy frontend and backend components seamlessly.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Folder Structure](#folder-structure)
-- [Getting Started](#getting-started)
-- [Frontend](#frontend)
-- [Backend](#backend)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 Awesome App is a modern, scalable, and serverless application that demonstrates the integration of frontend and backend components on AWS Serverless Services. Leverage the power of AWS Amplify, Lambda, DynamoDB, and API Gateway for a hassle-free deployment experience.
