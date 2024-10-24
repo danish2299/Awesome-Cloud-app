@@ -33,16 +33,6 @@ Highlight the key features that set your project apart. Use emojis and concise l
 List any dependencies or tools users need to have before diving into your project.
 
 
-## Getting Started
-
-To get started with Awesome App, follow these simple steps:
-
-1. Clone the repository: `git clone https://github.com/AmanPathak-DevOps/Cloud-Serverless-Project.git`
-2. Navigate to the `frontend` folder and explore the frontend code.
-3. Check out the `backend` folder for the awesome backend logic.
-4. Customize and adapt the code based on your project requirements.
-5. Deploy the application using the provided deployment guides.
-
 ## Frontend
 
 The `Frontend` folder contains the HTML, CSS, and JS files responsible for the user interface and client-side functionalities. Customize these files to match your application's design.
